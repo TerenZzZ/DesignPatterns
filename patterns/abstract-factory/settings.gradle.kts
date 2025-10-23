@@ -12,3 +12,5 @@ plugins {
 
 rootProject.name = "abstract-factory"
 include("app")
+
+include("GUIFactory")
