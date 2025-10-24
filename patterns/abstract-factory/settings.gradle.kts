@@ -10,7 +10,5 @@ plugins {
     id("org.gradle.toolchains.foojay-resolver-convention") version "1.0.0"
 }
 
-rootProject.name = "abstract-factory"
-include("app")
-
+rootProject.name = "abstract-factory"dd
 include("GUIFactory")
